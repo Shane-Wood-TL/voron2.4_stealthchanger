@@ -18,9 +18,9 @@
 - [Nudge](https://github.com/zruncho3d/nudge)
 
 ### Docks
-- Magnetic Stealthburner Dock (6 Magnet Version)
-- Magnetic Dragonburner
-- Magnetic Dragonburner Dock
+- [Magnetic Stealthburner Dock (4 Magnet Version)](https://github.com/EasterWorks/Cergs-Stealthchanger/tree/main/STLs/Stealthburner-Magnetic-Dock)
+- [Magnetic Dragonburner (6 Magnet Verison) by Motalw](https://discord.com/channels/1226846451028725821/1320029517376655462/1347878802751230005)
+- [Magnetic Dragonburner Dock also by Motalw](https://discord.com/channels/1226846451028725821/1320029517376655462/1347878802751230005)
 ### Blocker
 - [Spring Steel Blocker Mold](https://discord.com/channels/1226846451028725821/1226882180102357113/1377878963879280721)
 
@@ -33,8 +33,8 @@
 
 
 ## Designed Parts
-- Magnetic Stealthburner - Custom, built upon X
-- Dragon Burner Dock - Custom
+- Magnetic Stealthburner - Custom, modified Easterwork's existing model to work with a round V6
+- Dragon Burner Backplate - Custom
 
 
 # Toolheads
