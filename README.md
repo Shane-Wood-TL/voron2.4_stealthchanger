@@ -1,4 +1,4 @@
-# voron2.4_stealthchanger
+# My Voron 2.4 Stealthchanger Config
 
 
 # Mods List
@@ -37,21 +37,22 @@
 - Dragon Burner Dock - Custom
 
 
-# Toolhead 0
-Make: Stealthburner
-Hotend: Standard V6
-Extruder: Clockwork 2
-Toolhead PCB: SB2209
+# Toolheads
+## Toolhead 0
+- Make: Stealthburner
+- Hotend: Standard V6
+- Extruder: Clockwork 2
+- Toolhead PCB: SB2209
 
-# Toolhead 1
-Make: Dragon Burner
-Hotend: Cermaic V6
-Extruder: LGX lite knockoff
-Toolhead PCB: SHT36 V3
+## Toolhead 1
+- Make: Dragon Burner
+- Hotend: Cermaic V6
+- Extruder: LGX lite knockoff
+- Toolhead PCB: SHT36 V3
 
 
-# Toolhead 2
-Make: Dragon Burner
-Hotend: Bambu Style
-Extruder: Printed Sherpa Mini
-Toolhead PCB: EBB36 V1.2
+## Toolhead 2
+- Make: Dragon Burner
+- Hotend: Bambu Style
+- Extruder: Printed Sherpa Mini
+- Toolhead PCB: EBB36 V1.2
