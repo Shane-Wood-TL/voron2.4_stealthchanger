@@ -34,7 +34,11 @@
 
 ## Designed Parts
 - Magnetic Stealthburner - Custom, modified Easterwork's existing model to work with a round V6
-- Dragon Burner Backplate - Custom
+- ### Dragon Burner Backplate
+- Allows for much cheaper optical sensors to be used, such as [these](https://a.co/d/34BFr4b)
+
+
+
 
 
 # Toolheads
